@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --lion-black: #050505;
+  --lion-gold: #d4af37;
+  --lion-gold-light: #f9df7b;
+}
+
+body {
+  background-color: var(--lion-black);
+  color: #fafafa;
+  font-family: 'Inter', sans-serif;
+  margin: 0;
+}
+
+@layer components {
+  /* Fondo con degradado sutil de lujo */
+  .bg-lion-vault {
+    background: radial-gradient(circle at top center, #171717 0%, #050505 100%);
+  }
+
+  /* El dorado metálico para botones y títulos */
+  .text-gold {
+    @apply bg-gradient-to-r from-[#d4af37] to-[#f9df7b] bg-clip-text text-transparent font-black;
+  }
+
+  /* Botón principal de alto impacto */
+  .btn-lion {
+    @apply bg-gradient-to-r from-[#d4af37] to-[#f9df7b] text-black font-black uppercase tracking-widest px-8 py-4 rounded-full 
+           hover:scale-105 active:scale-95 transition-all shadow-[0_0_20px_rgba(212,175,55,0.3)];
+  }
+
+  /* Tarjetas con efecto de cristal (Glassmorphism) */
+  .glass-card {
+    @apply bg-neutral-900/40 border border-neutral-800 backdrop-blur-md rounded-3xl;
+  }
+}
+
+/* Optimización para dispositivos móviles (PWA) */
+input, select, textarea {
+  @apply bg-neutral-900 border-neutral-800 text-white rounded-xl p-4 outline-none focus:border-amber-500 transition-all;
+  font-size: 16px; /* Evita el zoom automático en iOS */
+}
