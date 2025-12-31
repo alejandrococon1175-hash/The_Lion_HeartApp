@@ -1,4 +1,4 @@
-# 🦁 The Lion’s Heart – App de Entrenamiento Funcional
+# 🦁 The Lion’s Heart – App de Entrenamiento/Nutrición Deportiva 
 
 **The Lion’s Heart** es una aplicación web de entrenamiento funcional diseñada para ofrecer planes personalizados de ejercicio y evaluación física, enfocada en el desarrollo integral del cuerpo, la disciplina y el rendimiento físico.
 
