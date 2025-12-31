@@ -1,0 +1,29 @@
+# 🦁 THE LION’S HEART APP
+### Elite Fitness & Nutrition Platform
+
+**THE LION’S HEART APP** es una plataforma digital privada y exclusiva diseñada para el entrenamiento estructurado y la nutrición deportiva de alto rendimiento. Esta aplicación híbrida (PWA) está enfocada en la optimización física personalizada, ofreciendo una experiencia de usuario premium, segura y escalable.
+
+---
+
+## 💎 ADN VISUAL
+El diseño sigue una estética de **"Lujo Deportivo"**:
+- **Paleta de Colores:** Lion Black (#050505) y Lion Gold (#D4AF37).
+- **Interfaz:** Basada en Neomorfismo Oscuro y Glassmorphism para una sensación de exclusividad.
+- **Enfoque:** Minimalista, profesional y optimizado para dispositivos móviles.
+
+---
+
+## 🚀 STACK TECNOLÓGICO
+- **Frontend:** Next.js 14+ (App Router) con TypeScript.
+- **Estilos:** Tailwind CSS con animaciones de Framer Motion.
+- **Backend:** Firebase (Firestore & Auth) mediante API Routes de Next.js.
+- **Plataforma:** PWA (Progressive Web App) para instalación nativa en iOS y Android.
+
+---
+
+## 🛡️ FUNCIONALIDADES MVP
+1. **Autenticación Exclusiva:** Sistema de acceso privado mediante email y contraseña.
+2. **Anamnesis Journey:** Cuestionario cinematográfico por pasos que cubre:
+   - Datos Biométricos.
+   - Historial de Salud y Lesiones.
+   - Nivel de Entrenamiento y Nutrición.
