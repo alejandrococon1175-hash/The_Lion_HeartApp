@@ -1,51 +1,55 @@
-# 🦁 The Lion’s Heart – App de Entrenamiento/Nutrición Deportiva 
+# 🦁 The Lion’s Heart – Plataforma de Entrenamiento y Nutrición Deportiva
 
-**The Lion’s Heart** es una aplicación web de entrenamiento funcional diseñada para ofrecer planes personalizados de ejercicio y evaluación física, enfocada en el desarrollo integral del cuerpo, la disciplina y el rendimiento físico.
+**The Lion’s Heart** es una plataforma web e híbrida diseñada para la gestión integral del entrenamiento y la nutrición deportiva, orientada a personas de cualquier nivel, edad y objetivo físico.
 
-La app permite a los usuarios registrarse, completar un cuestionario de anamnesis y recibir un seguimiento estructurado basado en sus objetivos, condición física y antecedentes de salud.
+La plataforma permite a los usuarios registrarse, completar un cuestionario detallado de anamnesis y recibir planes personalizados de entrenamiento y nutrición, con un enfoque profesional, estructurado y basado en la salud y el progreso sostenible.
 
 ---
 
 ## 🎯 Objetivo del proyecto
 
-Desarrollar una plataforma digital que:
-- Centralice la información física y de salud de cada cliente
-- Facilite la personalización de entrenamientos
+Desarrollar una plataforma digital privada que:
+- Centralice la información física, deportiva y nutricional de cada usuario
+- Facilite la personalización de planes de entrenamiento y nutrición
+- Optimice el seguimiento y control del progreso
 - Refuerce la metodología profesional de **The Lion’s Heart**
-- Mejore la experiencia del cliente mediante tecnología accesible y clara
+- Eleve la experiencia del cliente mediante una solución tecnológica clara y segura
 
 ---
 
-## 🏋️ Funcionalidades principales
+## 🏋️‍♂️ Funcionalidades principales
 
 - Registro e inicio de sesión de usuarios
-- Cuestionario de anamnesis (salud, historial deportivo y objetivos)
+- Cuestionario de anamnesis (salud, historial deportivo, estilo de vida y objetivos)
 - Evaluación física inicial
-- Asignación de planes de entrenamiento funcional
-- Seguimiento de progreso
-- Interfaz intuitiva y responsive (adaptada a móvil y escritorio)
+- Planes personalizados de entrenamiento
+- Planes de nutrición deportiva adaptados al perfil del usuario
+- Seguimiento del progreso
+- Interfaz responsive (móvil y escritorio)
+- Plataforma privada de acceso exclusivo
 
 ---
 
 ## 🧠 Metodología The Lion’s Heart
 
-La aplicación se basa en los pilares del programa **The Lion’s Heart**:
-- Disciplina
-- Constancia
-- Entrenamiento funcional inteligente
-- Enfoque en salud, fuerza y estética
-- Progreso medible y sostenible
+La plataforma se basa en los principios de **The Lion’s Heart**:
+- Disciplina y constancia
+- Entrenamiento estructurado y progresivo
+- Nutrición deportiva consciente y personalizada
+- Enfoque integral: salud, rendimiento y estética
+- Progreso medible y sostenible en el tiempo
 
 ---
 
 ## 🛠️ Tecnologías utilizadas
 
-*(Esta sección puede ajustarse según el stack final)*
+*(La selección final del stack puede ajustarse según la evolución del proyecto)*
 
 - Frontend: HTML, CSS, JavaScript / React
 - Backend: Node.js / Express
 - Base de datos: MongoDB / Firebase
 - Autenticación: JWT / Firebase Auth
+- Plataforma híbrida: PWA
 - Hosting: Vercel / Netlify / Render
 
 ---
@@ -55,22 +59,32 @@ La aplicación se basa en los pilares del programa **The Lion’s Heart**:
 🟡 **En desarrollo**
 
 Próximas implementaciones:
-- Panel de administrador (coach)
-- Visualización de métricas de progreso
-- Integración de rutinas por fases
-- Exportación de reportes
+- Panel de administración (coach)
+- Gestión avanzada de planes
+- Visualización de métricas físicas y nutricionales
+- Reportes de progreso
+- Notificaciones y recordatorios
+
+---
+
+## 🔒 Acceso y confidencialidad
+
+Este repositorio es **privado** y de uso exclusivo para clientes y colaboradores autorizados de **The Lion’s Heart**.
+
+El contenido, la metodología y el código están protegidos y no pueden ser copiados, distribuidos o reutilizados sin autorización expresa del autor.
 
 ---
 
 ## 👤 Autor
 
 **Alejandro Colín Sánchez**  
-Entrenador Personal & Creador de The Lion’s Heart  
-Especialista en entrenamiento funcional y acondicionamiento físico
+Entrenador Personal  
+Creador de **The Lion’s Heart**  
+Especialista en entrenamiento y nutrición deportiva
 
 ---
 
 ## 📄 Licencia
 
-Este proyecto es de uso privado y exclusivo para clientes de **The Lion’s Heart**.  
-No está permitido su uso, copia o distribución sin autorización expresa del autor.
+Proyecto privado.  
+Todos los derechos reservados © The Lion’s Heart.
